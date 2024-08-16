@@ -1,4 +1,4 @@
-*{
+ *{
     padding: 0;
     margin: 0;
 }
@@ -102,7 +102,5 @@ h1{
     color: transparent;
     text-shadow: 0px 0px 15px cadetblue;
     -webkit-text-stroke: 1px rgba(255, 217, 0, 0.76);
-    font-style: italic;
-   
-    
-}
+    font-style: italic;   
+} 
